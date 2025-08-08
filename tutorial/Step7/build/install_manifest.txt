@@ -1,4 +1,0 @@
-/workspaces/CMakeTutorialCN/tutorial/Step7/build/./install/bin/Tutorial
-/workspaces/CMakeTutorialCN/tutorial/Step7/build/./install/include/TutorialConfig.h
-/workspaces/CMakeTutorialCN/tutorial/Step7/build/./install/lib/libMathFunctions.a
-/workspaces/CMakeTutorialCN/tutorial/Step7/build/./install/include/MathFunctions.h

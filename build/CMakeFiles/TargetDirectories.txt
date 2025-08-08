@@ -1,0 +1,5 @@
+/workspaces/CMakeTutorialCN/build/CMakeFiles/edit_cache.dir
+/workspaces/CMakeTutorialCN/build/CMakeFiles/rebuild_cache.dir
+/workspaces/CMakeTutorialCN/build/Step2/CMakeFiles/Tutorial.dir
+/workspaces/CMakeTutorialCN/build/Step2/CMakeFiles/edit_cache.dir
+/workspaces/CMakeTutorialCN/build/Step2/CMakeFiles/rebuild_cache.dir

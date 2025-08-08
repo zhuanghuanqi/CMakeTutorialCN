@@ -1,0 +1,9 @@
+function helloVimWorld() {
+  console.log("Hello vim world");
+}
+
+
+function test() {
+    [[[[]]]]
+    je;
+}

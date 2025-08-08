@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/workspaces/CMakeTutorialCN/build/Step2",
+  "command": "/usr/bin/clang++  -I/workspaces/CMakeTutorialCN/build/Step2 -g -std=gnu++11 -o CMakeFiles/Tutorial.dir/tutorial.cxx.o -c /workspaces/CMakeTutorialCN/tutorial/Step2/tutorial.cxx",
+  "file": "/workspaces/CMakeTutorialCN/tutorial/Step2/tutorial.cxx",
+  "output": "Step2/CMakeFiles/Tutorial.dir/tutorial.cxx.o"
+}
+]

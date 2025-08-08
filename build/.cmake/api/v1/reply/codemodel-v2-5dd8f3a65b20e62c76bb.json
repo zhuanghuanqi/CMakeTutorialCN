@@ -6,13 +6,24 @@
 			[
 				{
 					"build" : ".",
+					"childIndexes" : 
+					[
+						1
+					],
 					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"projectIndex" : 0,
+					"source" : "."
+				},
+				{
+					"build" : "Step2",
+					"jsonFile" : "directory-Step2-Debug-7081ee709471a66cdec5.json",
 					"minimumCMakeVersion" : 
 					{
 						"string" : "3.10"
 					},
-					"projectIndex" : 0,
-					"source" : ".",
+					"parentIndex" : 0,
+					"projectIndex" : 1,
+					"source" : "Step2",
 					"targetIndexes" : 
 					[
 						0
@@ -23,11 +34,23 @@
 			"projects" : 
 			[
 				{
+					"childIndexes" : 
+					[
+						1
+					],
 					"directoryIndexes" : 
 					[
 						0
 					],
+					"name" : "testCmake"
+				},
+				{
+					"directoryIndexes" : 
+					[
+						1
+					],
 					"name" : "Tutorial",
+					"parentIndex" : 0,
 					"targetIndexes" : 
 					[
 						0
@@ -37,11 +60,11 @@
 			"targets" : 
 			[
 				{
-					"directoryIndex" : 0,
-					"id" : "Tutorial::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-Tutorial-Debug-cceb4cbf3d34263afafb.json",
+					"directoryIndex" : 1,
+					"id" : "Tutorial::@218d73da4d9467231e93",
+					"jsonFile" : "target-Tutorial-Debug-8465c2639bb63ec00978.json",
 					"name" : "Tutorial",
-					"projectIndex" : 0
+					"projectIndex" : 1
 				}
 			]
 		}
@@ -50,7 +73,7 @@
 	"paths" : 
 	{
 		"build" : "/workspaces/CMakeTutorialCN/build",
-		"source" : "/workspaces/CMakeTutorialCN/tutorial/Step2"
+		"source" : "/workspaces/CMakeTutorialCN/tutorial"
 	},
 	"version" : 
 	{

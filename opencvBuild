@@ -1,0 +1,78 @@
+.cache\ade
+  962ce79e0b95591f226431f7b5f152cd-v0.1.2e.zip
+\data
+  7505c44ca4eb54b4ab1e4777cb96ac05-face_landmark_model.dat
+
+
+d-----         2025/8/14     21:59                ade
+d-----         2025/8/14     22:39                data
+d-----         2025/8/14     22:40                ffmpeg
+d-----         2025/8/14     22:24                ippicv
+d-----         2025/8/14     22:40                wechat_qrcode
+d-----         2025/8/14     22:32                xfeatures2d
+-a----         2025/8/14     21:42              3 .gitignore
+
+
+Directory: D:\cpp\opencv-4.x\opencv-4.x\.cache\ffmpeg
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----         2025/8/14     22:19       25516032 2821ea672a11147a70974d760a54e9bc-opencv_videoio_ffmpeg.dll
+-a----         2025/8/14     22:16            362 8862c87496e2e8c375965e1277dee1c7-ffmpeg_version.cmake
+-a----         2025/8/14     21:49       28349440 e5c6936240201064b15bcecf1816e8f4-opencv_videoio_ffmpeg_64.dll
+-a----         2025/8/14     22:14       25516032 opencv_videoio_ffmpeg.dll
+
+
+ Directory: D:\cpp\opencv-4.x\opencv-4.x\.cache\ippicv
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----         2025/8/14     22:19       28480893 67a611ab22410f392239bddff6f91df7-ippicv_2022.1.0_win_intel64_20250130
+                                                  _general.zip
+
+
+    Directory: D:\cpp\opencv-4.x\opencv-4.x\.cache\wechat_qrcode
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----         2025/8/14     22:40         965430 238e2b2d6f3c18d6c3a30de0c31e23cf-detect.caffemodel
+-a----         2025/8/14     22:30           5984 69db99927a70df953b471daaba03fbef-sr.prototxt
+-a----         2025/8/14     22:30          42656 6fb4976b32695f9f5c6305c19f12537d-detect.prototxt
+-a----         2025/8/14     22:30          23929 cbfcd60361a73beb8c583eea7e8e6664-sr.caffemodel
+
+
+    Directory: D:\cpp\opencv-4.x\opencv-4.x\.cache\xfeatures2d
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d-----         2025/8/14     22:32                boostdesc
+d-----         2025/8/14     22:33                vgg
+
+
+    Directory: D:\cpp\opencv-4.x\opencv-4.x\.cache\xfeatures2d\boostdesc
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----         2025/8/14     22:32         426280 0ae0675534aa318d9668f2a179c2a052-boostdesc_lbgm.i
+-a----         2025/8/14     22:30          14852 0ea90e7a8f3f7876d450e4149c97c74f-boostdesc_bgm.i
+-a----         2025/8/14     22:31         138093 202e1b3e9fec871b04da31f7f016679f-boostdesc_binboost_064.i
+-a----         2025/8/14     22:31          14864 232c966b13651bd0e46a1497b0852191-boostdesc_bgm_bi.i
+-a----         2025/8/14     22:31           7832 324426a24fa56ad9c5b8e3e0b3e5303e-boostdesc_bgm_hd.i
+-a----         2025/8/14     22:31         275322 98ea99d399965c03d555cef3ea502a0b-boostdesc_binboost_128.i
+-a----         2025/8/14     22:32         549754 e6dcfa9f647779eb1ce446a8d759b6ea-boostdesc_binboost_256.i
+
+
+    Directory: D:\cpp\opencv-4.x\opencv-4.x\.cache\xfeatures2d\vgg
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----         2025/8/14     22:33        1257733 151805e03568c9f490a5e3a872777b75-vgg_generated_120.i
+-a----         2025/8/14     22:33         915012 7126a5d9a8884ebca5aea5d63d677225-vgg_generated_64.i
+-a----         2025/8/14     22:33        1012932 7cd47228edec52b6d82f46511af325c5-vgg_generated_80.i
+-a----         2025/8/14     22:32         773330 e8d0dcd54d1bcfdc29203d011a797179-vgg_generated_48.i
